@@ -1,5 +1,8 @@
 # 💉 Painel de Vacinação em Pernambuco - Power BI  
 
+🔗 **Acesse o painel online:**  
+👉 [Clique aqui para visualizar](https://devcmsaliba.github.io/PBI-Project1/)
+
 Este projeto tem como objetivo **analisar e visualizar os dados de vacinação no estado de Pernambuco**, fornecendo insights sobre a distribuição das doses, evolução da cobertura vacinal e outros indicadores relevantes para monitoramento da imunização.  
 
 ---
@@ -27,3 +30,4 @@ Este projeto tem como objetivo **analisar e visualizar os dados de vacinação n
 📌 **DAX e modelagem de dados** para cálculos avançados  
 
 🚀 **Este painel fornece insights estratégicos sobre a vacinação em Pernambuco, auxiliando na tomada de decisões baseadas em dados!**  
+
